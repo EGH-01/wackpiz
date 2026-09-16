@@ -10,17 +10,17 @@ hash = "17d49cb7b9053eacebd6276f2be0b48b749b1f98cd35a4c9490fc093d18b83d4"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "37069be1c7d23b2fe463a98297d1f12eb8875f0d3be651a3a6cadc868752ab5a"
+hash = "2093ce72fe8c356d9add18fed7d8c50da389167be9703fdaaa0795fefb12cf9e"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-polymer.pw.toml"
-hash = "fe14ab179ea2575eb09ac27cc93ef99caa2e89ba545c02f2378119cf85101c34"
+hash = "e04cf5f0764ada5bf44665b21240c72ef60de8d1873081525e4fe1e95c808d6d"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "5881a4294f6b3977ec5332365a4093f38f6433bf95070fa5ce7e67472c8582a4"
+hash = "bd809be3d125e180c14a037f65e1a0bba5d7e442070ff6ed5abe6ce20500eaaf"
 metafile = true
 
 [[files]]
@@ -30,17 +30,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
+hash = "d68f9ad500e062c1e3b59f25bf72416e579d18d836b104f2712464298932eca7"
 metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "6014c41a5297a0e9abfd7232815100c6869f57f9097d6555b44c0c3816e5915c"
+hash = "b9d19febd81e06bc375b7765af6b907b04fb9a5ffe92ecc18cc744fe5f67c9d5"
 metafile = true
 
 [[files]]
 file = "mods/polydex.pw.toml"
-hash = "bd3ac4a3886ec15728f4c440e3f64b61bad604443e8ef39222fdeb161075c565"
+hash = "a005ea4f287a2ae28f9fa420f60ac42c4bac870f0ea547c31f74775e890364bd"
 metafile = true
 
 [[files]]
@@ -50,10 +50,10 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "680c52dcd4b46783da0a8b789864df741c47e9059b245c57b75d50aa34fe25ab"
+hash = "2dec8c17d9d6fdf6dd93e2dc458c8d30ead86b2efc292490142841aacd4d3e95"
 metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "8e5425092441480c45d1da77f050a303403f70ead5f520934ee6e6c52ffb1c7d"
+hash = "6cdb5ef443657769f5fd1589e178087d800e6f766ba8aca8c4e3f7c4d9dbb1b0"
 metafile = true
