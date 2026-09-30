@@ -1,6 +1,6 @@
 # A0craft
 
-Packwiz metadata files for A0's server-side modpack (Fabric 26.2)
+Packwiz metadata files for A0's server-side modpack (Fabric 26.3)
 
 Recommended client-side mods:
 
